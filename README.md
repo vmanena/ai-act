@@ -1,6 +1,6 @@
 # AI Act pro školy
 
-Materiály k AI Actu a ochraně osobních údajů pro vedení škol, učitele a ICT koordinátory.
+Materiály [Václava Maněny](https://manena.info/) k AI Actu a ochraně osobních údajů pro vedení škol, učitele a ICT koordinátory.
 
 > [!NOTE]
 > **Od kdy se AI Act týká škol?**
