@@ -15,6 +15,8 @@ Materiály [Václava Maněny](https://manena.info/) k AI Actu a ochraně osobní
 
 **Všechny materiály si můžete zdarma stáhnout ve Wordu (.docx) a upravit podle potřeb své školy.**
 
+Materiály jsou k dispozici pod licencí [WTFPL](https://wtfpl.cz/).
+
 Do přípravy těchto materiálů jsem dal hodně času a energie. **Připravil jsem je jako středoškolský učitel. Nejsem právník.** Vzory, checklisty a metodiky berte jako výchozí bod pro práci ve škole.
 
 **Před použitím ve škole** si projděte celý dokument, přizpůsobte ho své situaci a ověřte, které body jsou pro vaši školu právní povinností a které jsou doporučením. Konkrétní právní otázky proberte s právníkem. Otázky k ochraně osobních údajů můžete konzultovat se svým pověřencem (DPO).
