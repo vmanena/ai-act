@@ -7,6 +7,22 @@ Do přípravy těchto materiálů jsem dal hodně času a energie. Dávám je š
 ## Checklisty
 
 - [Checklist k AI Actu pro školy – školní rok 2026/2027 (Word)](checklisty/checklist-ai-act-skola_26-27.docx)
+- [Šablony a checklisty pro revizi smluv s dodavateli (DPA) a posouzení DPIA (Word)](checklisty/sablony-checklisty-dpa-dpia-skola.docx)
+
+## Metodiky a návody
+
+- [Návod na bezpečné zavádění AI ve škole (Word)](metodiky/navod-bezpecne-zavadeni-ai-skola.docx)
+- [Metodika pro IT správce – nastavení oprávnění a správa souhlasů (Word)](metodiky/metodika-it-spravce-souhlasy.docx)
+
+## Vzory a formuláře
+
+- [Informační memorandum o GDPR a AI a formulář souhlasů pro rodiče (Word)](vzory/informacni-memorandum-gdpr-ai-rodice.docx)
+- [Vzor posouzení dopadů na základní práva (FRIA) (Word)](vzory/vzor-fria-posouzeni-skola.docx)
+
+## Směrnice a pravidla
+
+- [Pravidla a kodex používání AI pro žáky a rodiče (Word)](smernice-a-pravidla/pravidla-kodex-ai-zaci-rodice.docx)
+- [Směrnice, provozní řád a balanční test pro kamerové systémy (Word)](smernice-a-pravidla/smernice-kamery-balancni-test-skola.docx)
 
 ## Poděkujte za materiály a podpořte další tvorbu
 
