@@ -6,7 +6,6 @@ Materiály [Václava Maněny](https://manena.info/) k AI Actu a ochraně osobní
 >
 > Pokud škola používá systémy AI při výuce nebo v provozu, musí dodržovat pravidla, která se na její způsob použití vztahují. AI Act se uplatňuje postupně.
 >
-> - **2. února 2025** se začala uplatňovat povinnost přijímat opatření na podporu AI gramotnosti zaměstnanců a dalších osob, které se systémy AI pracují jménem školy.
 > - **2. srpna 2026** nastalo obecné datum použitelnosti AI Actu.
 > - **2. prosince 2027** se začnou uplatňovat pravidla pro vysoce rizikové systémy uvedené v příloze III. Mohou mezi ně patřit některé systémy pro přijímání nebo hodnocení žáků.
 >
