@@ -2,7 +2,7 @@
 
 Materiály k AI Actu pro vedení škol, učitele a ICT koordinátory.
 
-Do přípravy těchto materiálů jsem dal hodně času a energie. Dávám je školám volně k dispozici, aby je mohly využít a přizpůsobit své praxi. Nejsem právník. Materiály berte jako praktickou pomůcku pro práci ve škole. Pokud řešíte konkrétní právní otázku, proberte ji s právníkem.
+Do přípravy těchto materiálů jsem dal hodně času a energie. Dávám je školám volně k dispozici, aby je mohly využít a přizpůsobit své praxi. Nejsem právník. Materiály berte jako praktickou pomůcku pro práci ve škole. Pokud řešíte konkrétní právní otázku, proberte ji s právníkem nebo pověřencem pro ochranu osobních údajů (v terminologii GDPR je to DPO).
 
 ## Checklisty
 
