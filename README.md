@@ -8,7 +8,7 @@ Do přípravy těchto materiálů jsem dal hodně času a energie. **Připravil 
 
 **Kde začít?** Projděte si [checklist pro vedení školy na školní rok 2026/2027](checklisty/checklist-ai-act-skola_26-27.docx).
 
-Další materiály najdete na Manena.info v tématu [AI Act](https://manena.info/category/ai-act/).
+Na Manena.info najdete také [balíček k AI Actu pro školy s checklistem, články a webináři](https://manena.info/2026/09/16/ai-act-balicek-pro-skoly-checklist-clanky-a-webinare/). Další materiály najdete v tématu [AI Act](https://manena.info/category/ai-act/).
 
 ## Checklisty
 
