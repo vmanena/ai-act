@@ -11,6 +11,8 @@ Materiály k AI Actu a ochraně osobních údajů pro vedení škol, učitele a 
 > - **2. srpna 2026** nastalo obecné datum použitelnosti AI Actu.
 > - **2. prosince 2027** se začnou uplatňovat pravidla pro vysoce rizikové systémy uvedené v příloze III. Mohou mezi ně patřit některé systémy pro přijímání nebo hodnocení žáků.
 >
+> [Harmonogram uplatňování AI Actu – Evropská komise (anglicky)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai#application-timeline)
+>
 > [České konsolidované znění AI Actu na EUR-Lexu (PDF, čl. 4 a 113)](https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?qid=1789339363772&uri=CELEX%3A02024R1689-20260727)
 
 **Všechny materiály si můžete zdarma stáhnout ve Wordu (.docx) a upravit podle potřeb své školy.**
