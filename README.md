@@ -13,9 +13,7 @@ Materiály [Václava Maněny](https://manena.info/) k AI Actu a ochraně osobní
 >
 > [České konsolidované znění AI Actu na EUR-Lexu (PDF, čl. 4 a 113)](https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?qid=1789339363772&uri=CELEX%3A02024R1689-20260727)
 
-**Všechny materiály si můžete zdarma stáhnout ve Wordu (.docx) a upravit podle potřeb své školy.**
-
-Materiály jsou k dispozici pod licencí [WTFPL](https://wtfpl.cz/).
+**Všechny materiály si můžete zdarma stáhnout ve Wordu (.docx) a upravit podle potřeb své školy.** Jsou k dispozici pod licencí [WTFPL](https://wtfpl.cz/).
 
 Do přípravy těchto materiálů jsem dal hodně času a energie. **Připravil jsem je jako středoškolský učitel. Nejsem právník.** Vzory, checklisty a metodiky berte jako výchozí bod pro práci ve škole.
 
