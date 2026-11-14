@@ -8,7 +8,7 @@ Do přípravy těchto materiálů jsem dal hodně času a energie. Dávám je š
 
 - [Checklist k AI Actu pro školy – školní rok 2026/2027 (Word)](checklisty/checklist-ai-act-skola_26-27.docx)
 
-## Podpořte vznik dalších materiálů
+## Podpořte vznik dalších materiálů nebo mi poděkujte za ty stávající
 
 Pokud vám tyto materiály ušetřily práci nebo vám pomohly zorientovat se v AI Actu, **podpořte mě virtuálním kafem**. Pomůžete mi najít čas na aktualizace a tvorbu dalších materiálů pro školy. Díky!
 
