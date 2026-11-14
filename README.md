@@ -2,7 +2,16 @@
 
 Materiály k AI Actu a ochraně osobních údajů pro vedení škol, učitele a ICT koordinátory.
 
-**Od kdy se AI Act týká škol?** Pokud škola používá systémy AI při výuce nebo v provozu, musí dodržovat pravidla, která se na její způsob použití vztahují. AI Act se uplatňuje postupně. Už od **2. února 2025** se uplatňuje povinnost přijímat opatření na podporu AI gramotnosti zaměstnanců a dalších osob, které se systémy AI pracují jménem školy. Obecným datem použitelnosti je **2. srpen 2026**. Pravidla pro vysoce rizikové systémy uvedené v příloze III, kam mohou patřit některé systémy pro přijímání nebo hodnocení žáků, se začnou uplatňovat **2. prosince 2027**. [České konsolidované znění AI Actu na EUR-Lexu (PDF, čl. 4 a 113)](https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?qid=1789339363772&uri=CELEX%3A02024R1689-20260727)
+> [!NOTE]
+> **Od kdy se AI Act týká škol?**
+>
+> Pokud škola používá systémy AI při výuce nebo v provozu, musí dodržovat pravidla, která se na její způsob použití vztahují. AI Act se uplatňuje postupně.
+>
+> - **2. února 2025** se začala uplatňovat povinnost přijímat opatření na podporu AI gramotnosti zaměstnanců a dalších osob, které se systémy AI pracují jménem školy.
+> - **2. srpna 2026** nastalo obecné datum použitelnosti AI Actu.
+> - **2. prosince 2027** se začnou uplatňovat pravidla pro vysoce rizikové systémy uvedené v příloze III. Mohou mezi ně patřit některé systémy pro přijímání nebo hodnocení žáků.
+>
+> [České konsolidované znění AI Actu na EUR-Lexu (PDF, čl. 4 a 113)](https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?qid=1789339363772&uri=CELEX%3A02024R1689-20260727)
 
 **Všechny materiály si můžete zdarma stáhnout ve Wordu (.docx) a upravit podle potřeb své školy.**
 
