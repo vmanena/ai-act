@@ -10,6 +10,6 @@ Do přípravy těchto materiálů jsem dal hodně času a energie. Dávám je š
 
 ## Podpořte vznik dalších materiálů
 
-Pokud vám checklist ušetřil práci nebo vám pomohl zorientovat se v AI Actu, **podpořte mě virtuálním kafem**. Pomůžete mi najít čas na aktualizace a tvorbu dalších materiálů pro školy. Díky!
+Pokud vám tyto materiály ušetřily práci nebo vám pomohly zorientovat se v AI Actu, **podpořte mě virtuálním kafem**. Pomůžete mi najít čas na aktualizace a tvorbu dalších materiálů pro školy. Díky!
 
 [![Kupte mi kafe](https://img.shields.io/badge/coffee-podpo%C5%99te%20m%C4%9B-yellow?style=for-the-badge&logo=buy-me-a-coffee&label=Kupte%20mi%20kafe)](https://www.buymeacoffee.com/vmanena)
