@@ -4,7 +4,11 @@ Materiály k AI Actu a ochraně osobních údajů pro vedení škol, učitele a 
 
 **Všechny materiály si můžete zdarma stáhnout ve Wordu (.docx) a upravit podle potřeb své školy.**
 
-Do přípravy těchto materiálů jsem dal hodně času a energie. **Připravil jsem je jako středoškolský učitel. Nejsem právník.** Berte je jako inspiraci a praktickou pomůcku pro práci ve škole. Konkrétní právní otázky proberte s právníkem. Otázky k ochraně osobních údajů můžete konzultovat se svým pověřencem (DPO).
+Do přípravy těchto materiálů jsem dal hodně času a energie. **Připravil jsem je jako středoškolský učitel. Nejsem právník.** Vzory, checklisty a metodiky berte jako výchozí bod pro práci ve škole.
+
+**Před použitím ve škole** si projděte celý dokument, přizpůsobte ho své situaci a ověřte, které body jsou pro vaši školu právní povinností a které jsou doporučením. Konkrétní právní otázky proberte s právníkem. Otázky k ochraně osobních údajů můžete konzultovat se svým pověřencem (DPO).
+
+**Našli jste nepřesnost nebo neaktuální údaj?** Budu rád za připomínku v [GitHub Issues](https://github.com/vmanena/ai-act/issues). Uveďte prosím název dokumentu a konkrétní pasáž. Pokud máte po ruce zdroj nebo návrh opravy, přiložte ho.
 
 **Kde začít?** Projděte si [checklist pro vedení školy na školní rok 2026/2027](checklisty/checklist-ai-act-skola_26-27.docx).
 
