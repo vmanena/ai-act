@@ -2,7 +2,6 @@
 
 Materiály [Václava Maněny](https://manena.info/) k AI Actu a ochraně osobních údajů pro vedení škol, učitele a ICT koordinátory.
 
-> [!NOTE]
 > **Od kdy se AI Act týká škol?**
 >
 > Pokud škola používá systémy AI při výuce nebo v provozu, musí dodržovat pravidla, která se na její způsob použití vztahují. AI Act se uplatňuje postupně.
