@@ -2,7 +2,7 @@
 
 Materiály k AI Actu pro vedení škol, učitele a ICT koordinátory.
 
-Do přípravy těchto materiálů jsem dal hodně času a energie. Dávám je školám volně k dispozici. Všechny materiály v tomto repozitáři jsou ve Wordu (.docx), takže si je můžete upravit podle potřeb své školy. Nejsem právník. Materiály berte jako praktickou pomůcku pro práci ve škole. Pokud řešíte konkrétní právní otázku, proberte ji s právníkem nebo pověřencem pro ochranu osobních údajů (v terminologii GDPR je to DPO).
+Do přípravy těchto materiálů jsem dal hodně času a energie. Dávám je školám volně k dispozici. Všechny materiály v tomto repozitáři jsou ve Wordu (.docx), takže si je můžete upravit podle potřeb své školy. **Nejsem právník. Materiály berte jako inspiraci a praktickou pomůcku pro práci ve škole.** Pokud řešíte konkrétní právní otázku, proberte ji s právníkem nebo pověřencem pro ochranu osobních údajů (v terminologii GDPR je to DPO).
 
 Další materiály najdete na Manena.info v tématu [AI Act](https://manena.info/category/ai-act/).
 
